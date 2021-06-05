@@ -18,7 +18,7 @@ gmake USE_PGXS=1 install
 
 # Procedures
 
-## `create_database( \<database_name>, [\<collate>] )`
+## `create_database( <database_name>, [\<collate>] )`
 
 Default `collate` is `'ru_UA.UTF-8'`.
 
