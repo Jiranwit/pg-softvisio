@@ -1,4 +1,4 @@
-default_version = '1.0.3'
+default_version = '2.0.0'
 comment = 'Custom functions'
 requires = 'pgcrypto, dblink'
 superuser = true

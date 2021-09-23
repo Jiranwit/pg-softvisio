@@ -1,5 +1,21 @@
 {
     "name": "pg-softvisio",
     "version": "0.0.0",
-    "private": true
+    "private": true,
+    "description": "PostgreSQL extension",
+    "keywords": [
+        "softvisio",
+        "postgresql"
+    ],
+    "homepage": "https://github.com/softvisio/pg-softvisio",
+    "bugs": {
+        "url": "https://github.com/softvisio/pg-softvisio/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softvisio/pg-softvisio.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>"
 }
