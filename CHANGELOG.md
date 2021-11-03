@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.1 (2021-11-03)
+
+Fixes:
+
+-   fix: typo
+
 ### 1.1.0 (2021-11-03)
 
 Features:
